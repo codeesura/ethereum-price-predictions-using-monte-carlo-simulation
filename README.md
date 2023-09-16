@@ -58,6 +58,8 @@ The Monte Carlo method involves generating a large number of random samples to d
 
 After successful execution, an image named `ethereum_predictions.png` will be generated in the root directory. This image displays the Ethereum price predictions with the median price trajectory highlighted.
 
+![Output](https://github.com/codeesura/ethereum-price-predictions-using-monte-carlo-simulation/blob/main/ethereum_predictions.png)
+
 ## Contributing
 
 For any suggestions, bug reports, or improvements, please open an issue or submit a pull request. Ensure that your code adheres to the Rust conventions and is well-documented.
